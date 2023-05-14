@@ -3,6 +3,7 @@ module top_module(
 	output out
 );
 
-	assign out = in ;
-
+	assign out = in ; 
+	// a simple wire circuit
+	
 endmodule 
